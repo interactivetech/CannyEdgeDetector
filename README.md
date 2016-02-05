@@ -4,7 +4,7 @@ Implementation of a Canny Edge Detector in C, which was a project completed in 2
 Implementation of the Canny Edge Detector comprises the following
     - Blurring the image with a Gaussian Blur
     - Computing the Intensity Gradient of the Image
-    - Computing Non-Maximal Suppression
+    - Computing Non-Maximum Suppression
     - Edge Tracking by Hysteresis
 
 For more details, view wiki at: https://en.wikipedia.org/wiki/Canny_edge_detector
